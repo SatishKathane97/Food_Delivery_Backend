@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/CoreLiberies/">
+    <Project Path="Lib.Config/Lib.Config.csproj" />
+    <Project Path="Lib.Core/Lib.Core.csproj" />
+  </Folder>
+  <Folder Name="/Services/">
+    <Project Path="App.Application/App.Application.csproj" />
+    <Project Path="APP.Domain/APP.Domain.csproj" />
+    <Project Path="App.Infrastructure/App.Infrastructure.csproj" />
+    <Project Path="APP.Persistance/APP.Persistance.csproj" />
+    <Project Path="FoodDeliveryApplication/APP.API.csproj" />
+  </Folder>
+</Solution>

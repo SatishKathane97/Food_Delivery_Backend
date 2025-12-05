@@ -1,0 +1,15 @@
+D:\FoodApp\FoodDelivery\APP.Domain\bin\Debug\net8.0\APP.Domain.deps.json
+D:\FoodApp\FoodDelivery\APP.Domain\bin\Debug\net8.0\APP.Domain.dll
+D:\FoodApp\FoodDelivery\APP.Domain\bin\Debug\net8.0\APP.Domain.pdb
+D:\FoodApp\FoodDelivery\APP.Domain\bin\Debug\net8.0\Lib.Core.dll
+D:\FoodApp\FoodDelivery\APP.Domain\bin\Debug\net8.0\Lib.Core.pdb
+D:\FoodApp\FoodDelivery\APP.Domain\obj\Debug\net8.0\APP.Domain.csproj.AssemblyReference.cache
+D:\FoodApp\FoodDelivery\APP.Domain\obj\Debug\net8.0\APP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoodApp\FoodDelivery\APP.Domain\obj\Debug\net8.0\APP.Domain.AssemblyInfoInputs.cache
+D:\FoodApp\FoodDelivery\APP.Domain\obj\Debug\net8.0\APP.Domain.AssemblyInfo.cs
+D:\FoodApp\FoodDelivery\APP.Domain\obj\Debug\net8.0\APP.Domain.csproj.CoreCompileInputs.cache
+D:\FoodApp\FoodDelivery\APP.Domain\obj\Debug\net8.0\APP.Domain.csproj.Up2Date
+D:\FoodApp\FoodDelivery\APP.Domain\obj\Debug\net8.0\APP.Domain.dll
+D:\FoodApp\FoodDelivery\APP.Domain\obj\Debug\net8.0\refint\APP.Domain.dll
+D:\FoodApp\FoodDelivery\APP.Domain\obj\Debug\net8.0\APP.Domain.pdb
+D:\FoodApp\FoodDelivery\APP.Domain\obj\Debug\net8.0\ref\APP.Domain.dll
