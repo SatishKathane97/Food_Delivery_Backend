@@ -21,3 +21,4 @@ D:\FoodApp\FoodDelivery\App.Application\obj\Debug\net8.0\App.Application.dll
 D:\FoodApp\FoodDelivery\App.Application\obj\Debug\net8.0\refint\App.Application.dll
 D:\FoodApp\FoodDelivery\App.Application\obj\Debug\net8.0\App.Application.pdb
 D:\FoodApp\FoodDelivery\App.Application\obj\Debug\net8.0\ref\App.Application.dll
+D:\FoodApp\FoodDelivery\App.Application\obj\Debug\net8.0\App.Application.sourcelink.json

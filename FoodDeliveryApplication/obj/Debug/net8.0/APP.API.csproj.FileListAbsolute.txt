@@ -153,3 +153,5 @@ D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\refint\APP.API.
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.pdb
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.genruntimeconfig.cache
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\ref\APP.API.dll
+D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.sourcelink.json
+D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\BCrypt.Net-Next.dll

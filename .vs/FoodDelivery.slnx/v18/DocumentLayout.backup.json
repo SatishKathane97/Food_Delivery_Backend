@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "D:\\FoodApp\\FoodDelivery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|d:\\foodapp\\fooddelivery\\app.application\\useroperation\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|solutionrelative:app.application\\useroperation\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|d:\\foodapp\\fooddelivery\\app.application\\useroperation\\commands\\loginuser\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|solutionrelative:app.application\\useroperation\\commands\\loginuser\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|d:\\foodapp\\fooddelivery\\app.application\\useroperation\\commands\\registeruser\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|solutionrelative:app.application\\useroperation\\commands\\registeruser\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F624629F-7F93-552F-1670-798C4DDEB3FB}|FoodDeliveryApplication\\APP.API.csproj|d:\\foodapp\\fooddelivery\\fooddeliveryapplication\\controllers\\usermanagement\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F624629F-7F93-552F-1670-798C4DDEB3FB}|FoodDeliveryApplication\\APP.API.csproj|solutionrelative:fooddeliveryapplication\\controllers\\usermanagement\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|d:\\foodapp\\fooddelivery\\app.application\\authorization\\claimsbaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|solutionrelative:app.application\\authorization\\claimsbaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|d:\\foodapp\\fooddelivery\\app.application\\app.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|solutionrelative:app.application\\app.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|d:\\foodapp\\fooddelivery\\app.application\\useroperation\\commands\\loginuser\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|solutionrelative:app.application\\useroperation\\commands\\loginuser\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|d:\\foodapp\\fooddelivery\\app.application\\authorization\\jwtutilservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|solutionrelative:app.application\\authorization\\jwtutilservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|d:\\foodapp\\fooddelivery\\app.application\\useroperation\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|solutionrelative:app.application\\useroperation\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED861CB-9D56-883A-588A-0880A5F9D7F4}|APP.Domain\\APP.Domain.csproj|d:\\foodapp\\fooddelivery\\app.domain\\entities\\userdto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED861CB-9D56-883A-588A-0880A5F9D7F4}|APP.Domain\\APP.Domain.csproj|solutionrelative:app.domain\\entities\\userdto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED861CB-9D56-883A-588A-0880A5F9D7F4}|APP.Domain\\APP.Domain.csproj|d:\\foodapp\\fooddelivery\\app.domain\\enums\\roletypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED861CB-9D56-883A-588A-0880A5F9D7F4}|APP.Domain\\APP.Domain.csproj|solutionrelative:app.domain\\enums\\roletypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F624629F-7F93-552F-1670-798C4DDEB3FB}|FoodDeliveryApplication\\APP.API.csproj|d:\\foodapp\\fooddelivery\\fooddeliveryapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -19,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{F624629F-7F93-552F-1670-798C4DDEB3FB}|FoodDeliveryApplication\\APP.API.csproj|solutionrelative:fooddeliveryapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|d:\\foodapp\\fooddelivery\\app.application\\authorization\\jwtutilservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|solutionrelative:app.application\\authorization\\jwtutilservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9CC7A5F-A6B4-FA45-6D2E-9B99C769B591}|App.Infrastructure\\App.Infrastructure.csproj|d:\\foodapp\\fooddelivery\\app.infrastructure\\service\\userserviceimp\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9CC7A5F-A6B4-FA45-6D2E-9B99C769B591}|App.Infrastructure\\App.Infrastructure.csproj|solutionrelative:app.infrastructure\\service\\userserviceimp\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|d:\\foodapp\\fooddelivery\\app.application\\authorization\\claimsbaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A40D0F-9189-2FAD-58BA-BB372C8F70EE}|App.Application\\App.Application.csproj|solutionrelative:app.application\\authorization\\claimsbaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE0F6950-B51C-A6FE-138F-68D0F94A7BB7}|Lib.Config\\Lib.Config.csproj|d:\\foodapp\\fooddelivery\\lib.config\\jwtauth\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BED861CB-9D56-883A-588A-0880A5F9D7F4}|APP.Domain\\APP.Domain.csproj|d:\\foodapp\\fooddelivery\\app.domain\\factoryservice\\claimsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BED861CB-9D56-883A-588A-0880A5F9D7F4}|APP.Domain\\APP.Domain.csproj|solutionrelative:app.domain\\factoryservice\\claimsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BED861CB-9D56-883A-588A-0880A5F9D7F4}|APP.Domain\\APP.Domain.csproj|d:\\foodapp\\fooddelivery\\app.domain\\enums\\roletypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED861CB-9D56-883A-588A-0880A5F9D7F4}|APP.Domain\\APP.Domain.csproj|solutionrelative:app.domain\\enums\\roletypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BED861CB-9D56-883A-588A-0880A5F9D7F4}|APP.Domain\\APP.Domain.csproj|d:\\foodapp\\fooddelivery\\app.domain\\app.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -107,27 +127,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegisterUserCommand.cs",
-              "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\App.Application\\UserOperation\\Commands\\RegisterUser\\RegisterUserCommand.cs",
-              "RelativeDocumentMoniker": "App.Application\\UserOperation\\Commands\\RegisterUser\\RegisterUserCommand.cs",
-              "ToolTip": "D:\\FoodApp\\FoodDelivery\\App.Application\\UserOperation\\Commands\\RegisterUser\\RegisterUserCommand.cs",
-              "RelativeToolTip": "App.Application\\UserOperation\\Commands\\RegisterUser\\RegisterUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\App.Application\\UserOperation\\Commands\\LoginUser\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "App.Application\\UserOperation\\Commands\\LoginUser\\LoginCommandHandler.cs",
+              "ToolTip": "D:\\FoodApp\\FoodDelivery\\App.Application\\UserOperation\\Commands\\LoginUser\\LoginCommandHandler.cs",
+              "RelativeToolTip": "App.Application\\UserOperation\\Commands\\LoginUser\\LoginCommandHandler.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T18:18:51.096Z",
+              "WhenOpened": "2025-12-05T14:18:38.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\FoodDeliveryApplication\\appsettings.json",
-              "RelativeDocumentMoniker": "FoodDeliveryApplication\\appsettings.json",
-              "ToolTip": "D:\\FoodApp\\FoodDelivery\\FoodDeliveryApplication\\appsettings.json",
-              "RelativeToolTip": "FoodDeliveryApplication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-04T18:14:05.042Z"
+              "DocumentIndex": 5,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\App.Application\\UserOperation\\Commands\\LoginUser\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "App.Application\\UserOperation\\Commands\\LoginUser\\LoginCommand.cs",
+              "ToolTip": "D:\\FoodApp\\FoodDelivery\\App.Application\\UserOperation\\Commands\\LoginUser\\LoginCommand.cs",
+              "RelativeToolTip": "App.Application\\UserOperation\\Commands\\LoginUser\\LoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:18:27.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtUtilService.cs",
+              "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\App.Application\\Authorization\\JwtUtilService.cs",
+              "RelativeDocumentMoniker": "App.Application\\Authorization\\JwtUtilService.cs",
+              "ToolTip": "D:\\FoodApp\\FoodDelivery\\App.Application\\Authorization\\JwtUtilService.cs",
+              "RelativeToolTip": "App.Application\\Authorization\\JwtUtilService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:10:14.826Z"
             },
             {
               "$type": "Document",
@@ -137,13 +169,86 @@
               "RelativeDocumentMoniker": "App.Application\\UserOperation\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
               "ToolTip": "D:\\FoodApp\\FoodDelivery\\App.Application\\UserOperation\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
               "RelativeToolTip": "App.Application\\UserOperation\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAwD4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T17:42:40.225Z"
+              "WhenOpened": "2025-12-04T17:42:40.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.Application.csproj",
+              "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\App.Application\\App.Application.csproj",
+              "RelativeDocumentMoniker": "App.Application\\App.Application.csproj",
+              "ToolTip": "D:\\FoodApp\\FoodDelivery\\App.Application\\App.Application.csproj",
+              "RelativeToolTip": "App.Application\\App.Application.csproj",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-05T14:36:37.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\FoodDeliveryApplication\\Controllers\\UserManagement\\AuthController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApplication\\Controllers\\UserManagement\\AuthController.cs",
+              "ToolTip": "D:\\FoodApp\\FoodDelivery\\FoodDeliveryApplication\\Controllers\\UserManagement\\AuthController.cs",
+              "RelativeToolTip": "FoodDeliveryApplication\\Controllers\\UserManagement\\AuthController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAtwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:43:14.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClaimsBaseService.cs",
+              "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\App.Application\\Authorization\\ClaimsBaseService.cs",
+              "RelativeDocumentMoniker": "App.Application\\Authorization\\ClaimsBaseService.cs",
+              "ToolTip": "D:\\FoodApp\\FoodDelivery\\App.Application\\Authorization\\ClaimsBaseService.cs",
+              "RelativeToolTip": "App.Application\\Authorization\\ClaimsBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:09:34.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\App.Application\\UserOperation\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "App.Application\\UserOperation\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "ToolTip": "D:\\FoodApp\\FoodDelivery\\App.Application\\UserOperation\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeToolTip": "App.Application\\UserOperation\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T18:18:51.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleTypes.cs",
+              "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\APP.Domain\\Enums\\RoleTypes.cs",
+              "RelativeDocumentMoniker": "APP.Domain\\Enums\\RoleTypes.cs",
+              "ToolTip": "D:\\FoodApp\\FoodDelivery\\APP.Domain\\Enums\\RoleTypes.cs",
+              "RelativeToolTip": "APP.Domain\\Enums\\RoleTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:08:37.959Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\APP.Domain\\Entities\\UserDto\\User.cs",
+              "RelativeDocumentMoniker": "APP.Domain\\Entities\\UserDto\\User.cs",
+              "ToolTip": "D:\\FoodApp\\FoodDelivery\\APP.Domain\\Entities\\UserDto\\User.cs",
+              "RelativeToolTip": "APP.Domain\\Entities\\UserDto\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:09:24.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ClaimsModel.cs",
               "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\APP.Domain\\FactoryService\\ClaimsModel.cs",
               "RelativeDocumentMoniker": "APP.Domain\\FactoryService\\ClaimsModel.cs",
@@ -155,19 +260,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "JwtUtilService.cs",
-              "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\App.Application\\Authorization\\JwtUtilService.cs",
-              "RelativeDocumentMoniker": "App.Application\\Authorization\\JwtUtilService.cs",
-              "ToolTip": "D:\\FoodApp\\FoodDelivery\\App.Application\\Authorization\\JwtUtilService.cs",
-              "RelativeToolTip": "App.Application\\Authorization\\JwtUtilService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwEwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T17:10:14.826Z"
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\FoodDeliveryApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "FoodDeliveryApplication\\appsettings.json",
+              "ToolTip": "D:\\FoodApp\\FoodDelivery\\FoodDeliveryApplication\\appsettings.json",
+              "RelativeToolTip": "FoodDeliveryApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T18:14:05.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\FoodDeliveryApplication\\Program.cs",
               "RelativeDocumentMoniker": "FoodDeliveryApplication\\Program.cs",
@@ -179,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\App.Infrastructure\\Service\\UserServiceImp\\UserService.cs",
               "RelativeDocumentMoniker": "App.Infrastructure\\Service\\UserServiceImp\\UserService.cs",
@@ -191,31 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClaimsBaseService.cs",
-              "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\App.Application\\Authorization\\ClaimsBaseService.cs",
-              "RelativeDocumentMoniker": "App.Application\\Authorization\\ClaimsBaseService.cs",
-              "ToolTip": "D:\\FoodApp\\FoodDelivery\\App.Application\\Authorization\\ClaimsBaseService.cs",
-              "RelativeToolTip": "App.Application\\Authorization\\ClaimsBaseService.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T17:09:34.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RoleTypes.cs",
-              "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\APP.Domain\\Enums\\RoleTypes.cs",
-              "RelativeDocumentMoniker": "APP.Domain\\Enums\\RoleTypes.cs",
-              "ToolTip": "D:\\FoodApp\\FoodDelivery\\APP.Domain\\Enums\\RoleTypes.cs",
-              "RelativeToolTip": "APP.Domain\\Enums\\RoleTypes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T17:08:37.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "JwtConfiguration.cs",
               "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\Lib.Config\\JWTAuth\\JwtConfiguration.cs",
               "RelativeDocumentMoniker": "Lib.Config\\JWTAuth\\JwtConfiguration.cs",
@@ -227,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "APP.Domain.csproj",
               "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\APP.Domain\\APP.Domain.csproj",
               "RelativeDocumentMoniker": "APP.Domain\\APP.Domain.csproj",

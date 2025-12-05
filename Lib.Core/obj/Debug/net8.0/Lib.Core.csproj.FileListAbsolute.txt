@@ -9,3 +9,4 @@ D:\FoodApp\FoodDelivery\Lib.Core\obj\Debug\net8.0\Lib.Core.dll
 D:\FoodApp\FoodDelivery\Lib.Core\obj\Debug\net8.0\refint\Lib.Core.dll
 D:\FoodApp\FoodDelivery\Lib.Core\obj\Debug\net8.0\Lib.Core.pdb
 D:\FoodApp\FoodDelivery\Lib.Core\obj\Debug\net8.0\ref\Lib.Core.dll
+D:\FoodApp\FoodDelivery\Lib.Core\obj\Debug\net8.0\Lib.Core.sourcelink.json

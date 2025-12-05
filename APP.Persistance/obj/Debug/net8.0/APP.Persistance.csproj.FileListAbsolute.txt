@@ -17,3 +17,4 @@ D:\FoodApp\FoodDelivery\APP.Persistance\obj\Debug\net8.0\refint\APP.Persistance.
 D:\FoodApp\FoodDelivery\APP.Persistance\obj\Debug\net8.0\APP.Persistance.pdb
 D:\FoodApp\FoodDelivery\APP.Persistance\obj\Debug\net8.0\APP.Persistance.genruntimeconfig.cache
 D:\FoodApp\FoodDelivery\APP.Persistance\obj\Debug\net8.0\ref\APP.Persistance.dll
+D:\FoodApp\FoodDelivery\APP.Persistance\obj\Debug\net8.0\APP.Persistance.sourcelink.json

@@ -1,6 +1,32 @@
 [
   {
     "ContainingType": "APP.API.Controllers.UserManagement.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/LoginUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "App.Application.UserOperation.Commands.LoginUser.LoginCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Lib.Core.Models.Response.ResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APP.API.Controllers.UserManagement.AuthController",
     "Method": "Insert",
     "RelativePath": "api/Auth/registerUser",
     "HttpMethod": "POST",

@@ -17,3 +17,4 @@ D:\FoodApp\FoodDelivery\App.Infrastructure\obj\Debug\net8.0\App.Infrastructure.d
 D:\FoodApp\FoodDelivery\App.Infrastructure\obj\Debug\net8.0\refint\App.Infrastructure.dll
 D:\FoodApp\FoodDelivery\App.Infrastructure\obj\Debug\net8.0\App.Infrastructure.pdb
 D:\FoodApp\FoodDelivery\App.Infrastructure\obj\Debug\net8.0\ref\App.Infrastructure.dll
+D:\FoodApp\FoodDelivery\App.Infrastructure\obj\Debug\net8.0\App.Infrastructure.sourcelink.json

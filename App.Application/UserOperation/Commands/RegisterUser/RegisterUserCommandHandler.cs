@@ -1,4 +1,5 @@
-﻿using App.Application.Authorization;
+﻿
+                  using App.Application.Authorization;
 using App.Infrastructure.Service.UserServiceImp;
 using APP.Domain.Entities.UserDto;
 using APP.Domain.Enums;
@@ -15,20 +16,18 @@ namespace App.Application.UserOperation.Commands.RegisterUser
     public class RegisterUserCommandHandler : IRequestHandler<RegisterUserCommand, ResponseModel>
     {
         private readonly IUserService _userService;
-        private readonly ClaimsBaseService _claimsBaseService;
-        public RegisterUserCommandHandler(IUserService userService, ClaimsBaseService claimsBaseService)
+
+        public RegisterUserCommandHandler(IUserService userService)
         {
             _userService = userService ?? throw new ArgumentNullException(nameof(userService));
-            _claimsBaseService = claimsBaseService ?? throw new ArgumentNullException(nameof(claimsBaseService));
         }
 
         public async Task<ResponseModel> Handle(RegisterUserCommand request, CancellationToken cancellationToken)
         {
             ResponseModel response = new();
             try
+            
             {
-                
-
 
                 if (request ==null)
                 {
@@ -53,6 +52,13 @@ namespace App.Application.UserOperation.Commands.RegisterUser
                     response.Message = "Phone number already exists!";
                     return response;
                 }
+               string roleName = RoleTypes.user.ToString(); // default
+
+               if (request.RoleId == (long)RoleTypes.admin)
+                roleName = RoleTypes.admin.ToString();
+              else if (request.RoleId == (long)RoleTypes.user)
+            roleName = RoleTypes.user.ToString();
+
 
                 var user = new User
                 {
@@ -60,8 +66,9 @@ namespace App.Application.UserOperation.Commands.RegisterUser
                     Email = request.Email,
                     PasswordHash = request.PasswordHash,
                     Phone = request.Phone,
-                    Role = request.RoleId,
+                    Role = roleName
                 };
+                user.CreatedAt = DateTime.UtcNow;
                 var insertUser = await _userService.Insert(user);
 
                 response.StatusCode = (int)HttpStatusCode.OK;
@@ -79,3 +86,5 @@ namespace App.Application.UserOperation.Commands.RegisterUser
         }
     }
 }
+
+    

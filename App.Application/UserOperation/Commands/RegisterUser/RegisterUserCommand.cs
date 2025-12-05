@@ -14,6 +14,6 @@ namespace App.Application.UserOperation.Commands.RegisterUser
         public string? Email { get; set; }
         public string? PasswordHash { get; set; }
         public string? Phone { get; set; }
-        public string? RoleId { get; set; }
+        public long RoleId { get; set; }
     }
 }
