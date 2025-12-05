@@ -112,7 +112,7 @@
               "RelativeDocumentMoniker": "App.Application\\UserOperation\\Commands\\RegisterUser\\RegisterUserCommand.cs",
               "ToolTip": "D:\\FoodApp\\FoodDelivery\\App.Application\\UserOperation\\Commands\\RegisterUser\\RegisterUserCommand.cs",
               "RelativeToolTip": "App.Application\\UserOperation\\Commands\\RegisterUser\\RegisterUserCommand.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA4wBAAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T18:18:51.096Z",
               "EditorCaption": ""
@@ -127,8 +127,7 @@
               "RelativeToolTip": "FoodDeliveryApplication\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-04T18:14:05.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T18:14:05.042Z"
             },
             {
               "$type": "Document",
@@ -140,8 +139,7 @@
               "RelativeToolTip": "App.Application\\UserOperation\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAAwD4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T17:42:40.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T17:42:40.225Z"
             },
             {
               "$type": "Document",
@@ -153,8 +151,7 @@
               "RelativeToolTip": "APP.Domain\\FactoryService\\ClaimsModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T17:29:25.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T17:29:25.081Z"
             },
             {
               "$type": "Document",
@@ -166,8 +163,7 @@
               "RelativeToolTip": "App.Application\\Authorization\\JwtUtilService.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAuwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T17:10:14.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T17:10:14.826Z"
             },
             {
               "$type": "Document",
@@ -179,8 +175,7 @@
               "RelativeToolTip": "FoodDeliveryApplication\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T17:16:00.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T17:16:00.652Z"
             },
             {
               "$type": "Document",
@@ -192,8 +187,7 @@
               "RelativeToolTip": "App.Infrastructure\\Service\\UserServiceImp\\UserService.cs",
               "ViewState": "AgIAAEgAAAAAAAAAAAAuwGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T18:02:36.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T18:02:36.437Z"
             },
             {
               "$type": "Document",
@@ -205,8 +199,7 @@
               "RelativeToolTip": "App.Application\\Authorization\\ClaimsBaseService.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T17:09:34.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T17:09:34.099Z"
             },
             {
               "$type": "Document",
@@ -218,8 +211,7 @@
               "RelativeToolTip": "APP.Domain\\Enums\\RoleTypes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T17:08:37.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T17:08:37.959Z"
             },
             {
               "$type": "Document",
@@ -231,21 +223,19 @@
               "RelativeToolTip": "Lib.Config\\JWTAuth\\JwtConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T16:52:03.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T16:52:03.368Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "APP.Domain",
+              "Title": "APP.Domain.csproj",
               "DocumentMoniker": "D:\\FoodApp\\FoodDelivery\\APP.Domain\\APP.Domain.csproj",
               "RelativeDocumentMoniker": "APP.Domain\\APP.Domain.csproj",
               "ToolTip": "D:\\FoodApp\\FoodDelivery\\APP.Domain\\APP.Domain.csproj",
               "RelativeToolTip": "APP.Domain\\APP.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-04T17:07:34.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T17:07:34.281Z"
             }
           ]
         },
