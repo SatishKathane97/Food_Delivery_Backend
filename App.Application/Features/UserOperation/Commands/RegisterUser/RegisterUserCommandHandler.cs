@@ -1,5 +1,4 @@
-﻿
-                  using App.Application.Authorization;
+﻿using App.Application.Authorization;
 using App.Infrastructure.Service.UserServiceImp;
 using APP.Domain.Entities.UserDto;
 using APP.Domain.Enums;
@@ -11,7 +10,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
-namespace App.Application.UserOperation.Commands.RegisterUser
+namespace App.Application.Features.UserOperation.Commands.RegisterUser
 {
     public class RegisterUserCommandHandler : IRequestHandler<RegisterUserCommand, ResponseModel>
     {

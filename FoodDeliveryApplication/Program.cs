@@ -1,5 +1,7 @@
 ﻿using App.Application.Authorization;
-using App.Application.UserOperation.Commands.RegisterUser;
+using App.Application.Features.UserOperation.Commands.RegisterUser;
+
+using App.Infrastructure.Service.OTPLogServiceImp;
 using App.Infrastructure.Service.UserServiceImp;
 using App.Persistance.Repositories;
 using APP.Persistance.DbContexts;
@@ -22,7 +24,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped(typeof(IBaseRepository<>), typeof(BaseRepository<>));
 builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IOTPService, OTPService>();
 builder.Services.AddScoped<IJwtService,JwtUtilService>();
+
+
 builder.Services.AddScoped<ClaimsBaseService>();
 builder.Services.Configure<AuthToken>(builder.Configuration.GetSection("AuthToken"));
 // 🔹 Swagger with JWT Security

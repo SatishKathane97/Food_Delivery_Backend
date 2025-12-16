@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "model",
-        "Type": "App.Application.UserOperation.Commands.LoginUser.LoginCommand",
+        "Type": "App.Application.Features.UserOperation.Commands.LoginUser.LoginCommand",
         "IsRequired": true
       }
     ],
@@ -35,7 +35,85 @@
     "Parameters": [
       {
         "Name": "model",
-        "Type": "App.Application.UserOperation.Commands.RegisterUser.RegisterUserCommand",
+        "Type": "App.Application.Features.UserOperation.Commands.RegisterUser.RegisterUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Lib.Core.Models.Response.ResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APP.API.Controllers.OnboardingRegisterManagement.OTPLoginController",
+    "Method": "Resend",
+    "RelativePath": "api/OTPLogin/rsendOtp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "App.Application.Features.OnbordingUser.Command.OnboardingResendOtp.OnboardingResendOtpCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Lib.Core.Models.Response.ResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APP.API.Controllers.OnboardingRegisterManagement.OTPLoginController",
+    "Method": "Send",
+    "RelativePath": "api/OTPLogin/sendOtp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "App.Application.Features.OnbordingUser.Command.OnboardindSendOTP.OnboardingSendOTPCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Lib.Core.Models.Response.ResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APP.API.Controllers.OnboardingRegisterManagement.OTPLoginController",
+    "Method": "Verify",
+    "RelativePath": "api/OTPLogin/verifyOtp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "App.Application.Features.OnbordingUser.Command.OnboardingVerifyOTP.OnboardingVerifyCommand",
         "IsRequired": true
       }
     ],

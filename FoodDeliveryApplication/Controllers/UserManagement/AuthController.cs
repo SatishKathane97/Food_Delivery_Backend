@@ -1,5 +1,5 @@
-﻿using App.Application.UserOperation.Commands.LoginUser;
-using App.Application.UserOperation.Commands.RegisterUser;
+﻿using App.Application.Features.UserOperation.Commands.LoginUser;
+using App.Application.Features.UserOperation.Commands.RegisterUser;
 using Lib.Core.Models.Response;
 using MediatR;
 using Microsoft.AspNetCore.Components.Forms;

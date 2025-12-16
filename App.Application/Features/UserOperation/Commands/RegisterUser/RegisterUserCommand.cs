@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace App.Application.UserOperation.Commands.RegisterUser
+namespace App.Application.Features.UserOperation.Commands.RegisterUser
 {
     public class RegisterUserCommand : IRequest<ResponseModel>
     {

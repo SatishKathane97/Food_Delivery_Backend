@@ -21,6 +21,7 @@
     <ProjectReference Include="..\App.Application\App.Application.csproj" />
     <ProjectReference Include="..\App.Infrastructure\App.Infrastructure.csproj" />
     <ProjectReference Include="..\APP.Persistance\APP.Persistance.csproj" />
+    <ProjectReference Include="..\Lib.Core\Lib.Core.csproj" />
   </ItemGroup>
 
 </Project>

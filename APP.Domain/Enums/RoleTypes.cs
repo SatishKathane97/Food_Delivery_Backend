@@ -14,5 +14,7 @@ namespace APP.Domain.Enums
 
         [Description("user")]
         user = 2,
+        [Description("deliveryBoy")]
+        delivery = 3,
     }
 }

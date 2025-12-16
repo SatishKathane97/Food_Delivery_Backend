@@ -1,10 +1,3 @@
-D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.csproj.AssemblyReference.cache
-D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\rpswa.dswa.cache.json
-D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.GeneratedMSBuildEditorConfig.editorconfig
-D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.AssemblyInfoInputs.cache
-D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.AssemblyInfo.cs
-D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.csproj.CoreCompileInputs.cache
-D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.MvcApplicationPartsAssemblyInfo.cache
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\appsettings.Development.json
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\appsettings.json
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\APP.API.staticwebassets.endpoints.json
@@ -15,6 +8,7 @@ D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\APP.API.dll
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\APP.API.pdb
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\Azure.Core.dll
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\Azure.Identity.dll
+D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\BCrypt.Net-Next.dll
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\Humanizer.dll
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\MediatR.dll
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
@@ -133,10 +127,18 @@ D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\Lib.Core.dll
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\App.Application.pdb
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\App.Infrastructure.pdb
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\APP.Persistance.pdb
+D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\Lib.Core.pdb
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\APP.Domain.pdb
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\Lib.Config.pdb
-D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\Lib.Core.pdb
+D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.csproj.AssemblyReference.cache
+D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.AssemblyInfoInputs.cache
+D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.AssemblyInfo.cs
+D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.csproj.CoreCompileInputs.cache
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.MvcApplicationPartsAssemblyInfo.cs
+D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.MvcApplicationPartsAssemblyInfo.cache
+D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.sourcelink.json
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\rjimswa.dswa.cache.json
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -153,5 +155,3 @@ D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\refint\APP.API.
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.pdb
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.genruntimeconfig.cache
 D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\ref\APP.API.dll
-D:\FoodApp\FoodDelivery\FoodDeliveryApplication\obj\Debug\net8.0\APP.API.sourcelink.json
-D:\FoodApp\FoodDelivery\FoodDeliveryApplication\bin\Debug\net8.0\BCrypt.Net-Next.dll

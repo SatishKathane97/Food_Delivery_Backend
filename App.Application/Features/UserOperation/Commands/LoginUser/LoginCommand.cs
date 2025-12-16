@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace App.Application.UserOperation.Commands.LoginUser
+namespace App.Application.Features.UserOperation.Commands.LoginUser
 {
     public class LoginCommand : IRequest<ResponseModel>
     {

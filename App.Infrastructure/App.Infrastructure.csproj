@@ -9,6 +9,7 @@
   <ItemGroup>
     <ProjectReference Include="..\APP.Domain\APP.Domain.csproj" />
     <ProjectReference Include="..\APP.Persistance\APP.Persistance.csproj" />
+    <ProjectReference Include="..\Lib.Config\Lib.Config.csproj" />
     <ProjectReference Include="..\Lib.Core\Lib.Core.csproj" />
   </ItemGroup>
 

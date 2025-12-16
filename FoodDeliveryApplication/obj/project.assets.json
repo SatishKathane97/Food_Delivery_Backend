@@ -1684,6 +1684,7 @@
         "dependencies": {
           "APP.Domain": "1.0.0",
           "APP.Persistance": "1.0.0",
+          "Lib.Config": "1.0.0",
           "Lib.Core": "1.0.0"
         },
         "compile": {
@@ -4578,6 +4579,7 @@
       "APP.Persistance >= 1.0.0",
       "App.Application >= 1.0.0",
       "App.Infrastructure >= 1.0.0",
+      "Lib.Core >= 1.0.0",
       "MediatR >= 8.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 8.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.0",
@@ -4626,6 +4628,9 @@
             },
             "D:\\FoodApp\\FoodDelivery\\APP.Persistance\\APP.Persistance.csproj": {
               "projectPath": "D:\\FoodApp\\FoodDelivery\\APP.Persistance\\APP.Persistance.csproj"
+            },
+            "D:\\FoodApp\\FoodDelivery\\Lib.Core\\Lib.Core.csproj": {
+              "projectPath": "D:\\FoodApp\\FoodDelivery\\Lib.Core\\Lib.Core.csproj"
             }
           }
         }

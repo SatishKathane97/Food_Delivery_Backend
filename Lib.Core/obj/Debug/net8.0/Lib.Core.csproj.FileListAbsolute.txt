@@ -5,8 +5,8 @@ D:\FoodApp\FoodDelivery\Lib.Core\obj\Debug\net8.0\Lib.Core.GeneratedMSBuildEdito
 D:\FoodApp\FoodDelivery\Lib.Core\obj\Debug\net8.0\Lib.Core.AssemblyInfoInputs.cache
 D:\FoodApp\FoodDelivery\Lib.Core\obj\Debug\net8.0\Lib.Core.AssemblyInfo.cs
 D:\FoodApp\FoodDelivery\Lib.Core\obj\Debug\net8.0\Lib.Core.csproj.CoreCompileInputs.cache
+D:\FoodApp\FoodDelivery\Lib.Core\obj\Debug\net8.0\Lib.Core.sourcelink.json
 D:\FoodApp\FoodDelivery\Lib.Core\obj\Debug\net8.0\Lib.Core.dll
 D:\FoodApp\FoodDelivery\Lib.Core\obj\Debug\net8.0\refint\Lib.Core.dll
 D:\FoodApp\FoodDelivery\Lib.Core\obj\Debug\net8.0\Lib.Core.pdb
 D:\FoodApp\FoodDelivery\Lib.Core\obj\Debug\net8.0\ref\Lib.Core.dll
-D:\FoodApp\FoodDelivery\Lib.Core\obj\Debug\net8.0\Lib.Core.sourcelink.json

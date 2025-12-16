@@ -427,6 +427,7 @@
         "dependencies": {
           "APP.Domain": "1.0.0",
           "APP.Persistance": "1.0.0",
+          "Lib.Config": "1.0.0",
           "Lib.Core": "1.0.0"
         },
         "runtime": {

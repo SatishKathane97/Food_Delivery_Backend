@@ -1,13 +1,13 @@
+D:\FoodApp\FoodDelivery\Lib.Config\bin\Debug\net8.0\Lib.Config.deps.json
+D:\FoodApp\FoodDelivery\Lib.Config\bin\Debug\net8.0\Lib.Config.dll
+D:\FoodApp\FoodDelivery\Lib.Config\bin\Debug\net8.0\Lib.Config.pdb
 D:\FoodApp\FoodDelivery\Lib.Config\obj\Debug\net8.0\Lib.Config.csproj.AssemblyReference.cache
 D:\FoodApp\FoodDelivery\Lib.Config\obj\Debug\net8.0\Lib.Config.GeneratedMSBuildEditorConfig.editorconfig
 D:\FoodApp\FoodDelivery\Lib.Config\obj\Debug\net8.0\Lib.Config.AssemblyInfoInputs.cache
 D:\FoodApp\FoodDelivery\Lib.Config\obj\Debug\net8.0\Lib.Config.AssemblyInfo.cs
 D:\FoodApp\FoodDelivery\Lib.Config\obj\Debug\net8.0\Lib.Config.csproj.CoreCompileInputs.cache
-D:\FoodApp\FoodDelivery\Lib.Config\bin\Debug\net8.0\Lib.Config.deps.json
-D:\FoodApp\FoodDelivery\Lib.Config\bin\Debug\net8.0\Lib.Config.dll
-D:\FoodApp\FoodDelivery\Lib.Config\bin\Debug\net8.0\Lib.Config.pdb
+D:\FoodApp\FoodDelivery\Lib.Config\obj\Debug\net8.0\Lib.Config.sourcelink.json
 D:\FoodApp\FoodDelivery\Lib.Config\obj\Debug\net8.0\Lib.Config.dll
 D:\FoodApp\FoodDelivery\Lib.Config\obj\Debug\net8.0\refint\Lib.Config.dll
 D:\FoodApp\FoodDelivery\Lib.Config\obj\Debug\net8.0\Lib.Config.pdb
 D:\FoodApp\FoodDelivery\Lib.Config\obj\Debug\net8.0\ref\Lib.Config.dll
-D:\FoodApp\FoodDelivery\Lib.Config\obj\Debug\net8.0\Lib.Config.sourcelink.json

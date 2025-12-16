@@ -1,4 +1,6 @@
-﻿using APP.Domain.Entities.UserDto;
+﻿
+using APP.Domain.Entities.OTPDto;
+using APP.Domain.Entities.UserDto;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -15,5 +17,7 @@ namespace APP.Persistance.DbContexts
         }
 
             public DbSet<User> Users { get; set; }
+         
+           public DbSet<OTPLog>OTPLogs { get; set; }
     }
 }
